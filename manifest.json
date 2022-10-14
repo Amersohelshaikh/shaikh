@@ -1,9 +1,9 @@
 {
-    "name": "SHAIKH portfolio",
+    "name": "SHAIKH ",
     "short_name": "PORTFOLIO",
     "description": "shaikh ka portfolio . having 1 year experience as frontend devoloper",
     "orientation": "portrait",
-    "start_url": "/port",
+    "start_url": "/shaikh",
     "background_color": "#F00",
     "theme_color": "#0FF",
     "display": "standalone",
